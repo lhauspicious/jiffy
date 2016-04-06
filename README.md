@@ -1,3 +1,4 @@
+TEST
 Jiffy - JSON NIFs for Erlang
 ============================
 
